@@ -1,9 +1,8 @@
-
 <svg width="131" height="131" viewBox="0 0 131 131" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>Subtract</title>
+<title>compound</title>
 <desc>Created using Figma 0.90</desc>
 <g id="Canvas" transform="translate(79 65)" figma:type="canvas">
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<g id="compound" style="mix-blend-mode:normal;" figma:type="vector-operation">
 <use xlink:href="#path0_fill" transform="translate(-79 -65)" fill="#DADADA" style="mix-blend-mode:normal;"/>
 <mask id="mask0_outline_ins">
 <use xlink:href="#path0_fill" fill="white" transform="translate(-79 -65)"/>
