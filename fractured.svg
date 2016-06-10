@@ -1,0 +1,13 @@
+
+<svg width="143" height="143" viewBox="0 0 143 143" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Rectangle 2</title>
+<desc>Created using Figma 0.90</desc>
+<g id="Canvas" transform="translate(309 89)" figma:type="canvas">
+<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-309 -89)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 143 143L 143 0L 103 0L 23.5 0L 0 0L 0 8L 0 43.5L 44.5 43.5L 44.5 17L 23.5 8L 103 8L 103 17L 44.5 17L 89.5 74.5635L 113.223 41.5L 107.431 97.5L 89.5 74.5635L 43 110.12L 0 143L 30 143L 56 125.118L 71.5 143L 143 143Z"/>
+</defs>
+</svg>
