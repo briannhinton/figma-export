@@ -1,0 +1,20 @@
+
+<svg width="100" height="100" viewBox="0 0 100 100" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Ellipse</title>
+<desc>Created using Figma 0.90</desc>
+<g id="Canvas" transform="translate(309 261)" figma:type="canvas">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-309 -261)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-309 -261)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-309 -261)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 100 50C 100 77.6142 77.6142 100 50 100C 22.3858 100 0 77.6142 0 50C 0 22.3858 22.3858 0 50 0C 77.6142 0 100 22.3858 100 50Z"/>
+<path id="path1_stroke_2x" d="M 99 50C 99 77.062 77.062 99 50 99L 50 101C 78.1665 101 101 78.1665 101 50L 99 50ZM 50 99C 22.938 99 1 77.062 1 50L -1 50C -1 78.1665 21.8335 101 50 101L 50 99ZM 1 50C 1 22.938 22.938 1 50 1L 50 -1C 21.8335 -1 -1 21.8335 -1 50L 1 50ZM 50 1C 77.062 1 99 22.938 99 50L 101 50C 101 21.8335 78.1665 -1 50 -1L 50 1Z"/>
+</defs>
+</svg>
