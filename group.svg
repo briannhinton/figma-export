@@ -1,55 +1,55 @@
-<svg width="678" height="327" viewBox="0 0 678 327" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="828" height="143" viewBox="0 0 828 143" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
 <title>group</title>
 <desc>Created using Figma 0.90</desc>
-<g id="Canvas" transform="translate(626 261)" figma:type="canvas">
+<g id="Canvas" transform="translate(716 77)" figma:type="canvas">
 <g id="group" style="mix-blend-mode:normal;" figma:type="group">
 <g id="rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
-<use xlink:href="#path0_fill" transform="translate(-487 -261)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path0_fill" transform="translate(-583 -34)" fill="#DADADA" style="mix-blend-mode:normal;"/>
 <mask id="mask0_outline_ins">
-<use xlink:href="#path0_fill" fill="white" transform="translate(-487 -261)"/>
+<use xlink:href="#path0_fill" fill="white" transform="translate(-583 -34)"/>
 </mask>
 <g mask="url(#mask0_outline_ins)">
-<use xlink:href="#path1_stroke_2x" transform="translate(-487 -261)" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path1_stroke_2x" transform="translate(-583 -34)" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="circle" style="mix-blend-mode:normal;" figma:type="ellipse">
-<use xlink:href="#path2_fill" transform="translate(-309 -261)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path2_fill" transform="translate(-453 -34)" fill="#DADADA" style="mix-blend-mode:normal;"/>
 <mask id="mask1_outline_ins">
-<use xlink:href="#path2_fill" fill="white" transform="translate(-309 -261)"/>
+<use xlink:href="#path2_fill" fill="white" transform="translate(-453 -34)"/>
 </mask>
 <g mask="url(#mask1_outline_ins)">
-<use xlink:href="#path3_stroke_2x" transform="translate(-309 -261)" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path3_stroke_2x" transform="translate(-453 -34)" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="donut" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path4_fill" transform="translate(-109 -261)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path4_fill" transform="translate(-149 -34)" fill="#DADADA" style="mix-blend-mode:normal;"/>
 <mask id="mask2_outline_ins">
-<use xlink:href="#path4_fill" fill="white" transform="translate(-109 -261)"/>
+<use xlink:href="#path4_fill" fill="white" transform="translate(-149 -34)"/>
 </mask>
 <g mask="url(#mask2_outline_ins)">
-<use xlink:href="#path5_stroke_2x" transform="translate(-109 -261)" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path5_stroke_2x" transform="translate(-149 -34)" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="fractured" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path6_fill" transform="translate(-309 -89)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path6_fill" transform="translate(-322 -77)" fill="#DADADA" style="mix-blend-mode:normal;"/>
 <mask id="mask3_outline_ins">
-<use xlink:href="#path6_fill" fill="white" transform="translate(-309 -89)"/>
+<use xlink:href="#path6_fill" fill="white" transform="translate(-322 -77)"/>
 </mask>
 <g mask="url(#mask3_outline_ins)">
-<use xlink:href="#path7_stroke_2x" transform="translate(-309 -89)" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path7_stroke_2x" transform="translate(-322 -77)" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="compound" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path8_fill" transform="translate(-79 -65)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path8_fill" transform="translate(-19 -65)" fill="#DADADA" style="mix-blend-mode:normal;"/>
 <mask id="mask4_outline_ins">
-<use xlink:href="#path8_fill" fill="white" transform="translate(-79 -65)"/>
+<use xlink:href="#path8_fill" fill="white" transform="translate(-19 -65)"/>
 </mask>
 <g mask="url(#mask4_outline_ins)">
-<use xlink:href="#path9_stroke_2x" transform="translate(-79 -65)" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path9_stroke_2x" transform="translate(-19 -65)" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="polygon" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path10_fill" transform="translate(-626 -39)" fill="#DADADA" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path10_fill" transform="translate(-716 -23)" fill="#DADADA" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 </g>
