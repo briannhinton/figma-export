@@ -1,12 +1,3 @@
-<svg width="103" height="89" viewBox="0 0 103 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>polygon</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(716 23)">
-<g id="polygon">
-<use xlink:href="#path0_fill" transform="translate(-716 -23)" fill="#DADADA"/>
-</g>
-</g>
-<defs>
-<path id="path0_fill" d="M 51.5 0L 103 89L 0 89L 51.5 0Z"/>
-</defs>
+<svg width="103" height="89" viewBox="0 0 103 89" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="polygon" d="M51.5 0L103 89H0L51.5 0Z" fill="#DADADA"/>
 </svg>
